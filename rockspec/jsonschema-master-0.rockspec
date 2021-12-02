@@ -1,8 +1,7 @@
 package = "jsonschema"
 version = "master-0"
 source = {
-  url = "git://github.com/iresty/jsonschema.git",
-  branch = "master",
+  url = "git://github.com/Kasen/jsonschema.git",
 }
 
 description = {
@@ -14,7 +13,7 @@ to validate any kind of data (not limited to JSON).
 
 Base on https://github.com/jdesgats/ljsonschema .
 ]],
-  homepage = "https://github.com/iresty/jsonschema",
+  homepage = "https://github.com/Kasen/jsonschema",
   license = "MIT"
 }
 
